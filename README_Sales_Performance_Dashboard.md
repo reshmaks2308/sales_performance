@@ -113,11 +113,8 @@ Add your Excel dashboard screenshot to the repository and name it:
 
 `dashboard preview.png`
 
-Then use:
-
-```markdown
 ![Sales Performance Dashboard](dashboard preview.png)
-```
+
 
 ---
 
